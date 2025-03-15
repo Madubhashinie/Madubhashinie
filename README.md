@@ -1,7 +1,5 @@
 # My-GitHub-Profile
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">Hi! I'm Tharushi Madubhashinie. I am a second-year software engineering undergraduate at the University of Westminster with a strong passion for software development and full-stack technologies.</div>  
