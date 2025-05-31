@@ -64,6 +64,9 @@
 <a href="https://tharushi-madubhashinie-portfolio.netlify.app/" target="_blank">
 <img src=https://img.shields.io/badge/portfolio-%2324292e.svg?&style=for-the-badge&logo=portfolio&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
 </a> 
+<a href="https://x.com/T_Madubhashinie" target="_blank">
+<img src=https://img.shields.io/badge/X-%231E77B5.svg?&style=for-the-badge&logoColor=white alt=x style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
